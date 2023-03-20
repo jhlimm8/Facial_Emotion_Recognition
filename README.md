@@ -6,6 +6,7 @@ demo:
 
 
 classification report: (approximate results that change slightly every code iteration)
+```
 
               precision    recall  f1-score   support
 
@@ -21,3 +22,4 @@ classification report: (approximate results that change slightly every code iter
    macro avg       0.60      0.55      0.55      7178
 weighted avg       0.61      0.58      0.58      7178
 
+```
